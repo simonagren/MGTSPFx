@@ -1,0 +1,13 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "mgtsp-fx-client-side-solution",
+    "id": "d7568a95-e1d9-4b6b-aa27-ad80586d3a10",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "isDomainIsolated": false
+  },
+  "paths": {
+    "zippedPackage": "solution/mgtsp-fx.sppkg"
+  }
+}
